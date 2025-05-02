@@ -1,0 +1,6 @@
+llama_index
+mcp_server_library
+playwright
+beautifulsoup4
+requests
+nltk or spaCy for summarization
